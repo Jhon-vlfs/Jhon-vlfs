@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&pause=1000&color=9D999D&width=435&lines=Hello+World!+I%C2%B4m+Jo%C3%A3o+Victor+Lima.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&pause=1000&color=9D999D&width=435&lines=Hello+World!+I'm+Jo%C3%A3o+Victor+Lima.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <img src="https://c.tenor.com/4ZBjN30ITM0AAAAC/tenor.gif" alt="Pixel Art" display="block" align="right" width="200">
 
