@@ -5,9 +5,9 @@
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jv-Js" height="35" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)">
-  <img align="center" alt="Jv-HTML" height="35" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)">
-  <img align="center" alt="Jv-CSS" height="35" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)">
+  <img align="center" alt="Jv-Js" height="35" width="40" src="(https://img.icons8.com/?size=100&id=108784&format=png&color=000000)">
+  <img align="center" alt="Jv-HTML" height="35" width="40" src="(https://img.icons8.com/?size=100&id=20909&format=png&color=000000)">
+  <img align="center" alt="Jv-CSS" height="35" width="40" src="(https://img.icons8.com/?size=100&id=21278&format=png&color=000000)">
   <img align="center" alt="Jv-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Jv-PostgreSql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">       
   <img align="center" alt="Jv-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
